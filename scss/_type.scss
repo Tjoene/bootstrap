@@ -65,8 +65,8 @@ hr {
 //
 
 .page-header {
-  padding-bottom: (($line-height-base / 2) - 1);
-  margin: ($line-height-base * 2) 0 $line-height-base;
+  padding-bottom: .5rem;
+  margin: 2.5rem 0 1.5rem;
   border-bottom: 1px solid $gray-200;
 }
 
