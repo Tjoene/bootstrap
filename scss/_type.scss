@@ -61,6 +61,17 @@ hr {
 
 
 //
+// Page header
+//
+
+.page-header {
+  padding-bottom: (($line-height-base / 2) - 1);
+  margin: ($line-height-base * 2) 0 $line-height-base;
+  border-bottom: 1px solid $gray-200;
+}
+
+
+//
 // Emphasis
 //
 
